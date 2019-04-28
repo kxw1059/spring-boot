@@ -11,7 +11,7 @@
 	<artifactId>spring-boot-tests</artifactId>
 	<packaging>pom</packaging>
 	<name>Spring Boot Tests</name>
-	<description>Spring Boot Test</description>
+	<description>Spring Boot Tests</description>
 	<properties>
 		<main.basedir>${basedir}/..</main.basedir>
 	</properties>
